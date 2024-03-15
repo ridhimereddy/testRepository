@@ -1,5 +1,0 @@
-print("hello world")
-i = int(input("enter number: "))
-print(i*i)
-j = (1,2,3,4,5)
-print(j)
